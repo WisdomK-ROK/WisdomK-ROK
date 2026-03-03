@@ -1,9 +1,9 @@
 ## Introduction
 
 ### Work experience
-(現) 2025/09 ~ : Unemployed
-(前) 2024/06 ~ 2025/08: Game Server Programming
-(前) 2021/11 ~ 2023/01: Game Client Programming
+(現) 2025/09 ~ : Unemployed<br>
+(前) 2024/06 ~ 2025/08: Game Server Programming<br>
+(前) 2021/11 ~ 2023/01: Game Client Programming<br>
 (前) 2017/03 ~ 2018/07: Engineering
 
 ### Certifications
