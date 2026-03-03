@@ -7,6 +7,7 @@
 >(前) 2017/03 ~ 2018/07: Engineering
 
 ### 🧮 Stacks
+>![Assembly](https://img.shields.io/badge/Assembly-000000?logoColor=white)
 >![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
 >![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 >![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
