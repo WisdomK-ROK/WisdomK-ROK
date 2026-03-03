@@ -6,6 +6,14 @@
 >(前) 2021/11 ~ 2023/01: Game Client Programming<br>
 >(前) 2017/03 ~ 2018/07: Engineering
 
+### 🧮 Stacks
+>![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
+>![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+>![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+>![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?logo=unrealengine&logoColor=white)
+>![Unity](https://img.shields.io/badge/unity-%23000000.svg?logo=unity&logoColor=white)
+>![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
+
 ### 📜 Certifications
 >![Engineer Information Processing](https://img.shields.io/badge/Engineer%20Information%20Processing-Human%20Resources%20Development%20Service%20of%20Korea-007ACC)<br>
 >![SQLD](https://img.shields.io/badge/SQL%20Developer-Kdata-007ACC)<br>
