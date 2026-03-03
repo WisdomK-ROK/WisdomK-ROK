@@ -1,16 +1,16 @@
-## Introduction
+## 👨‍💻 Introduction
 
-### Work experience
-(現) 2025/09 ~ : Unemployed<br>
-(前) 2024/06 ~ 2025/08: Game Server Programming<br>
-(前) 2021/11 ~ 2023/01: Game Client Programming<br>
-(前) 2017/03 ~ 2018/07: Engineering
+### 🎮 Work Experience
+>(現) 2025/09 ~ : Unemployed<br>
+>(前) 2024/06 ~ 2025/08: Game Server Programming<br>
+>(前) 2021/11 ~ 2023/01: Game Client Programming<br>
+>(前) 2017/03 ~ 2018/07: Engineering
 
-### Certifications
-1. Engineer Information Processing(Human Resources Development Service of Korea)
-2. SQL Developer(Kdata)
-3. Level 1, Korean History Proficiency Test
-4. Taekwondo 1st Dan(Kukkiwon)
+### 📜 Certifications
+>![Engineer Information Processing](https://img.shields.io/badge/Engineer%20Information%20Processing-Human%20Resources%20Development%20Service%20of%20Korea-007ACC)<br>
+>![SQLD](https://img.shields.io/badge/SQL%20Developer-Kdata-007ACC)<br>
+>![History](https://img.shields.io/badge/Level%201,%20Korean%20History%20Proficiency%20Test-National%20Institute%20of%20Korean%20History-E61919)<br>
+>![Taekwondo](https://img.shields.io/badge/Taekwondo%201st%20Dan-Kukkiwon-000000)<br>
 
 <!--
 **WisdomK-ROK/WisdomK-ROK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
