@@ -13,6 +13,7 @@
 >![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 >![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?logo=unrealengine&logoColor=white)
 >![Unity](https://img.shields.io/badge/unity-%23000000.svg?logo=unity&logoColor=white)
+>![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 >![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 
 ### 📜 Certifications
