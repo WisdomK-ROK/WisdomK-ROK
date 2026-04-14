@@ -1,10 +1,17 @@
 ## 👨‍💻 Introduction
 
 ### 🎮 Work Experience
->(現) 2025/09 ~ : Unemployed<br>
->(前) 2024/06 ~ 2025/08: Game Server Programming<br>
->(前) 2021/11 ~ 2023/01: Game Client Programming<br>
->(前) 2017/03 ~ 2018/07: Engineering
+> (現) 2025/09 ~<br>
+> &ensp;&ensp;&ensp;- Unemployed<br>
+> (前) 2024/06 ~ 2025/08<br>
+> &ensp;&ensp;&ensp;- T3 Entertainment Inc.<br>
+> &ensp;&ensp;&ensp;- Game Server Programming<br>
+> (前) 2021/11 ~ 2023/01<br>
+> &ensp;&ensp;&ensp;- Wonder People Co., Ltd.<br>
+> &ensp;&ensp;&ensp;- Game Client Programming<br>
+> (前) 2017/03 ~ 2018/07<br>
+> &ensp;&ensp;&ensp;- POSCO Co., Ltd.<br>
+> &ensp;&ensp;&ensp;- Engineering
 
 ### 🧮 Stacks
 >![Assembly](https://img.shields.io/badge/Assembly-000000?logoColor=white)
